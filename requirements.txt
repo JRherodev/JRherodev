@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+telebot
+user_agent
+requests
+urlquote
