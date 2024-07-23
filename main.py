@@ -6,7 +6,7 @@ from urllib.parse import quote
 user = user_agent.generate_user_agent()
 r = requests.Session()
 
-API_TOKEN = "6893534253:AAGsBnAk49VFL1F27wdDYNbAhUy-rn6prwE"
+API_TOKEN = "7292184288:AAGnEB0ix6bwM4yjP3kdnjo7OyZQ-YZCHJs"
 bot = telebot.TeleBot(API_TOKEN)
 
 @bot.message_handler(commands=['start'])
